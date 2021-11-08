@@ -1,0 +1,32 @@
+Container contains 15 elements:
+--------------------------------------------------
+0. It is Car: Fuel capacity = 9 (litres),Fuel consumption = 4 (litres/100km)Maximum speed = 8 (km)Maximum distance = 225.0 (km)
+--------------------------------------------------
+1. It is Bus: Fuel capacity = 12 (litres),Fuel consumption = 24 (litres/100km)Person capacity = 22 (kg)Maximum distance = 50.0 (km)
+--------------------------------------------------
+2. It is Truck: Fuel capacity = 39 (litres),Fuel consumption = 23 (litres/100km)Lifting = 30 (kg)Maximum distance = 169.56521739130434 (km)
+--------------------------------------------------
+3. It is Car: Fuel capacity = 50 (litres),Fuel consumption = 40 (litres/100km)Maximum speed = 90 (km)Maximum distance = 125.0 (km)
+--------------------------------------------------
+4. It is Bus: Fuel capacity = 32 (litres),Fuel consumption = 27 (litres/100km)Person capacity = 89 (kg)Maximum distance = 118.5185185185185 (km)
+--------------------------------------------------
+5. It is Truck: Fuel capacity = 45 (litres),Fuel consumption = 60 (litres/100km)Lifting = 10 (kg)Maximum distance = 75.0 (km)
+--------------------------------------------------
+6. It is Car: Fuel capacity = 40 (litres),Fuel consumption = 100 (litres/100km)Maximum speed = 67 (km)Maximum distance = 40.0 (km)
+--------------------------------------------------
+7. It is Bus: Fuel capacity = 76 (litres),Fuel consumption = 98 (litres/100km)Person capacity = 70 (kg)Maximum distance = 77.55102040816327 (km)
+--------------------------------------------------
+8. It is Truck: Fuel capacity = 36 (litres),Fuel consumption = 12 (litres/100km)Lifting = 78 (kg)Maximum distance = 300.0 (km)
+--------------------------------------------------
+9. It is Bus: Fuel capacity = 12 (litres),Fuel consumption = 431 (litres/100km)Person capacity = 12 (kg)Maximum distance = 2.784222737819025 (km)
+--------------------------------------------------
+10. It is Truck: Fuel capacity = 31 (litres),Fuel consumption = 60 (litres/100km)Lifting = 20 (kg)Maximum distance = 51.66666666666667 (km)
+--------------------------------------------------
+11. It is Car: Fuel capacity = 50 (litres),Fuel consumption = 60 (litres/100km)Maximum speed = 70 (km)Maximum distance = 83.33333333333334 (km)
+--------------------------------------------------
+12. It is Bus: Fuel capacity = 61 (litres),Fuel consumption = 56 (litres/100km)Person capacity = 45 (kg)Maximum distance = 108.92857142857142 (km)
+--------------------------------------------------
+13. It is Truck: Fuel capacity = 32 (litres),Fuel consumption = 30 (litres/100km)Lifting = 30 (kg)Maximum distance = 106.66666666666667 (km)
+--------------------------------------------------
+14. It is Bus: Fuel capacity = 23 (litres),Fuel consumption = 48 (litres/100km)Person capacity = 12 (kg)Maximum distance = 47.91666666666667 (km)
+--------------------------------------------------
